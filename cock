@@ -1,0 +1,130 @@
+![bladwonmangood](https://i.imgur.com/B7o48QK.png)![bladwonmanbad](https://i.imgur.com/J1bnIYX.png)
+
+## BLW/BLH Corporate "History"
+baldwin locomotive works made locomotives from the mid 1800s to the mid 1900s, competing primarily with alco, lima, fairbanks-m'orse, general motors oldsmobile division and, curiously, baldwin locomotive works. they ate lima, pranked fm, promptly got dunked on by alco and then when they went to make their own high-speed v12/v16 high horsepower vee engine, westinghouse was handed a 20% stake who _immediately_ installed new VPs and told engineering that if they didn't support New And Cool opposed piston engines they would, and i quote, "come down with a mysterious and crippling case of nojobitis." as it would so turn out this was actually a ploy by FM to erase competition, however this caused baldwin to implode _so_ hard it brought down westinghouse overnight and nearly killed FM from the resulting sinkhole. 
+
+baldwin history more or less got started when matthais baldwin stole the idea of steam engines from god himself. his facilities eventually managed to produce more locomotives than everyone else forever, and in the first decade of the 1900s his company decided to buy a shitload of land and move a significant fraction of pennsylvania indoors so they could make even _more_ locomotives just to flex on alco harder. this became known as Eddystone, as it was in Eddystone. it was completed and opened with the old shops shut down right on schedule for the entire us economy to explode in the late 20s. after going bankrupt then going unbankrupt throughout the 30s, it became readily apparent that keeping the lights on in indoors rhode island is expensive to the point of freaking out and trying to buy companies just to fill up the floor space. things that also didnt help: the WPB locking in the VO design when it was only halfway debugged, questionable combustion chamber theory, a president who was so god damned lazy he sold out and fucked over blw's future, misguided mergers, westinghouse freaking out and trying to copy fm, westinghouse freaking out and trying to leave, incompatible mu equipment and several big-ticket wunderwaffen innovations instead of focusing on making a Genuinely Good Product. ergo despite eventually debugging the only engine they managed to put out after 1945 (thanks westinghouse :^) ) and respectable sales and production numbers, they couldn't pull off a lima via low-volume high-efficiency and became unable to justify the continued existance of the locomotive department, even in the face of continued orders. they exited the gmod trainbuild market in 1956 when their computer couldnt run source sdk 2007 anymore, and baldwin imploded proper circa 1960 after burning all of their records out of spite for future locomotive modellers. 
+
+ironically the acquisition of Lima gave baldwin one Mr Rentschler, who did his best despite everything and after blw/blhs inevitable explosion continued to sell renewal parts until 1991 as the baldwin-hamilton company. 
+
+spellcheck/autocorrecting my articles instead of making a Proper Description makes you gay. wrong photos makes you double gay. 
+
+📄 Denotes a "paper" engine: In this case, used for units that were assigned a construction number but not finished for whatever reason.
+
+This is a long article. There are a lot of locomotives and the grouping is not as condensed as the EMD/GE articles to better facilitate short blurbs and generational/powerplant differences between models where it is not otherwise intuitive.
+
+## BLW/BLH Diesel Locomotive Models
+### Pre-VO Power
+Very very *very* early experiments - steam was still the dominant power, and the future of Diesel, while clear, was still getting it's timetables figured out.
+* 12-OE-1000/1 CC ("BLW-58501") `[1925] "We measure horsepower in the thousands here at Baldwin"`
+* 8-OE-1000/1 CC  ("BLW-68000") `[1929] Another boxcab that had a decent life as a switcher.`
+
+### First Gen Equipment
+Generally 1936 to 1945. By now steam production was falling off *hard* and Baldwin had acquired the De La Vergne engine company to facilitate the transition - in tune with what the other builders were doing, except for GM, who did it backwards. The VO series was DeLaVergne's first engine specifically for railroad use. The 12LV was an early attempt at making a more light duty engine that did not get off the ground although prototypes existed. The 400 series was an ill-fated attempt to make a modular replacement for the VO, caught in development hell due to the WPB in '43 with all extant projects cancelled by 1945. 
+
+**Switchers**
+* 8-0E-660/1 E ("BLW-62000"). `[1936] One built. Baldwin man's first non-boxcab.`
+* 8DM 500/1 1/4 C-1 📄 `[1939] Potentially to use the DeLaVergne 12LV engine. Parts were reused on a VO-660.`
+* VO-660 `[1940] Lower power switcher offered after VO-1000 production started. Used the 6-VO engine.`
+* VO-1000 `[1939] Popular switcher with over 500 units built. Used the 8-VO engine.`
+* 660/1 DE 91 📄 `[1940] Switcher planned to use the 400 series engine. Cancelled in '42 due to WPB fuckery.`
+* 750/2 DE 1 📄 `[1940] Center cab that was to use two 408s. Paused '42, cancelled '44 due to the 600 series coming online.`
+* 1000/1 DE 158 📄 `[1943] End cab(?) switcher that was to use a 412. Abandoned '42, probably due to the WPB again.`
+
+**Road Switchers**
+* DS-4-4-1000/1 NA 551 📄 `[1944?] A VO-powered light road switcher. Drawings are inconsistent for planned engine style.`
+
+**Road Locomotives**
+* BLW-6000 `[1943] Eight engine modular machine. Got four engines, went on a test run, two failed, management shelved it.` 
+* 0-6-6-0 1000/1 DE `[1945] Thirty built. Sent to Russia due to The War.`
+* 0-6-6-0 1000/2 DE `[1945] Three built. The last VO powered units made, A1A dual engine curiosities.`
+
+### Second Gen Equipment
+Baldwin realized that the VO series, while promising, had some serious limitations (massive machined surfaces, being expensive to produce and  and could not be turbocharged (due to the head design). After experiments with the 412 only netting ~1150 horsepower at most (brake, mind you, so closer to 1050 for traction), the 600 series was developed to allow proper pressure charging. The engine carried over a lot from the VO, including the bore, stroke, operating RPM ranges, basic block design, the timing chain, the crank-in-bedplate, the main bearing shims among others; the main improvements were in the head design, rotating assembly and, later, pistons as knowledge developed. Baldwin always considered it an interim engine that was Good Enough while they figured something better out. 
+
+**Switchers** 
+* DS-4-4-660 `[1946] Replaced the VO-660. Used a 606NA.`
+* DS-4-4-750 `[1949] Replaced the DS-4-4-660.`
+* DS-4-4-1000 `[1946] Used the 608NA engine. Naturally aspirated. Four stacks!`
+* DS-4-4-1000 `[1948] Used the 606SC engine. Turbocharged.`
+
+**Road Switchers** 
+
+606NA power:
+* DRS-6-4-660 `[1946] An export-only A1A built for the French Supply Council.`
+* DRS-6-4-750 `[1949] Ordered by the French Supply Council. Only one built.`
+
+
+606SC power: 
+* DRS-4-4-1000 `[1948] Classed as a "Light Road Switcher". Meant to compete with the RS-1.` 
+* DRS-6-4-1000 `[1948] Ordered by the FSC and the Algerian Railway.`
+* DRS-6-6-1000 📄 `[?] None built.` 
+
+
+608SC power: 
+* DRS-6-4-1500 `[1946] First Baldwin hood units. A1A trucks.`
+* DRS-4-4-1500 `[1947] B trucked of the above.`
+* DRS-6-6-1500 `[1948] C trucked of the above. Included B units. First six motor domestic road switchers.`
+
+**Transfers**
+
+* DT-6-6-2000 `[1946] One built and used the 608NA. Slightly cursed.`
+* DT-6-6-2000 `[1948] Much more popular at 45 built, using the 606SC and had a reasonable-ish length.`
+
+**Road Locomotives**
+
+606SC power:
+
+* DR-6-2-1000 `[1948] A1A-3 trucks. Self-propelled cabbage and one-off experiment.`
+* DR-6-4-2000` [1948] The PRR Fat Sharks. Notable for being, well, fat sharks - 200 tons in 1948. Dual engines. Included B units.`
+
+608SC power: 
+
+* [DR-12-8-3000 ("Centipede")](https://github.com/MagnumMacKivler/RLCPT2/wiki/DR-12-8-1500-2) `[1945] "Baldwin, have you made a road unit yet?"`
+* DR-4-4-1500 `[1947] Freight babyface. Hilariously terrible - the prototypes were electrical fire nightmares. Included B units.`
+* [DR-6-4-1500](https://github.com/MagnumMacKivler/RLCPT2/wiki/DR-6-4-1500) `[1947] Passenger babyface. Also hilariously terrible. Included B units.`
+* DR-4-4-1500 `[1949] Freight sharknose. Marginally more popular than the babyface equivalent. Included B units.`
+* DR-4-4-1600 `[1950] Freight sharknose. Proto-RF-16 before the post-BLH model rename.` 
+
+608NA power: 
+
+* DRX-6-4-2000 ("Janus") `[1946] Extremely cursed passenger babyface. Single-handledly ruined dual cabs in the US forever. DPM.`
+* DR-6-4-2000 `[1947] Dual-engine single cab passenger babyface. Equally horrible as the above.`
+
+### Third Gen Equipment
+As luck would have it, "Something Better" proved to manifest itself in 1947 with the development of the 2000 series engine, a powerplant roughly analogous to the Alco 244 in power ratings and rated speed but with a reliable alternative already out allowing for a reasonably-paced development cycle - not unlike the 251. Unfortunately, it wasn't to be - the Westinghouse VP ""takeover"" led to the cancellation of the 2000 series, the unsuccessful dead-end development of an opposed piston known as the 547, and the merger of Lima-Hamilton. Baldwin would later attempt to procure higher horsepower engines from MAN in Germany in 1952, with power ratings of 3500/1750 for V16/I8 variants. However these orders were cancelled in 1954 when the deteriorating market share situation became clear, and the reports of the dieselization rush ending. Following the mergers, BLW became BLH and managed to claw back enough stock ownership from Westinghouse by dilution shenanigans to regain some more autonomy. Model designations changed and Baldwin implemented the Standard series featuring post-steam era simplified model designations, featuring a series of manufacturing doctrinal improvements as well as upgrades to the 600 series; this netted a larger turbocharger (H704 for the 608A, H504 for the 606A), larger main bearings along with other more subtle improvements. Few additional changes were made from 1951 to the end of 600 series production.
+
+**Switchers**
+* S8 `[1951] Replaced the DS-4-4-750. Used a 606 engine. Includes B units.`
+* S12 `[1950] Used the 606A. Some could be had with GE electricals. Made through 1956.`
+
+**Roadswitchers**
+* [AS-16](https://github.com/MagnumMacKivler/RLCPT2/wiki/AS-16) `[1950] B truck replacement for the DRS series. The only survivor moved to Argentina. All used the 608A.`
+* AS-416 `[1950] A-1-A DRS replacement. Two were built with GE electrical gear, the only 608As to receive such.`
+* AS-616 `[1950] C truck DRS replacement. Includes B units.`
+* RS-12 `[1951] A light road switcher to replace the DRS-4-4-1000; essentially a switcher that could do the fast and fit a steam gen.`
+* AS-412E 📄 `[?] Offered export A1A all-service locomotive, presumably using a 606A.`
+* AS-616E `[1952] Export AS-616 built to non-American loading gauges.`
+ 
+**Tranfers** 
+* RT-624 `[1951] Replaced the DT-6 in the lineup. Only sold to two railroads.` 
+
+**Road Locomotives**
+* [RF-16](https://github.com/MagnumMacKivler/RLCPT2/wiki/RF-16) `[1951] Updated, uprated freight cab. Sold decently for once. Includes B units.`
+* RF-615E `[1953] Export cab unit. Slightly derated to 1500hp by request.`
+* RP-210 `[1956] Used German-built engines. Diesel-hydraulic passenger power built for the NYC and NH as a hail mary.`
+
+
+sources:
+
+Kirkland, J F. (1983). _Dawn of the Diesel Age: The History of the Diesel Locomotive in America._ Interurban Press.
+
+Dolzall, Gary W and Stephen F. (1984). _Diesels from Eddystone: The Story of Baldwin Diesel Locomotives_ Kalmbach Books. 
+
+lots of stuff from http://baldwindiesels.railfan.net/ - includes its own sources if youre really curious
+
+various discussions with Will Davis, who possesses an extensive catalogue of manuals and literature on the matter
+
+_Dimensions and Classification of Electric and Diesel-Electric Locomotives Hump and Steam Heat Trailers of the New York Central System._ 1957. New York Central.
+
+more that ill dig up as i think of them
